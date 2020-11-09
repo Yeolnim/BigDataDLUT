@@ -1,0 +1,9 @@
+score = pd.read_csv('score.csv')   grade.py
+cost = pd.read_csv('吃饭花费1.csv')    test.py
+chifan = pd.read_csv('吃饭花费.csv').drop(['sum'],axis=1)    lunch.py
+junfen = pd.read_csv('学期均分.csv')   fail.py
+fail = pd.read_csv('学期挂科.csv')     fail.py
+week = pd.read_csv('mean.csv')       yikatong.py->mean.py
+zaoshang = pd.read_csv('早上和下午第一节.csv')	lesson.py
+xsjbsjxx = pd.read_csv('bks_xsjbsjxx_out.csv',usecols = ['xh','xb'])
+xueye = pd.read_csv('xueyejinggao.csv')    fail.py
