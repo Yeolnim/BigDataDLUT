@@ -1,0 +1,9 @@
+fail:计算每学期挂科和均分
+grade:计算必修，选修，学分>3选修，学分<3选修课成绩
+lesson:计算早上第一节和下午第一节
+lunch:计算每顿饭花费
+yikatong:计算每周花费，结果在average1.csv
+mean:根据average1.csv的结果计算均值和方差
+read_data:画图的
+test,anlysis:没什么用
+total:合并csv的
